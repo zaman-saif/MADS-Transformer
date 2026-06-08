@@ -1,0 +1,7 @@
+{
+  "batch_size": 128,
+  "epochs": 8,
+  "hidden": 8,
+  "latent_dim": 64,
+  "lr": 0.0001330093021160053
+}
